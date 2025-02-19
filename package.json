@@ -3,12 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mui/x-date-pickers": "^7.23.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "axios": "^1.7.9",
+    "date-fns": "^4.1.0",
+    "datepicker": "^0.0.0",
     "react": "^19.0.0",
+    "react-datepicker": "^7.5.0",
+    "react-day-picker": "^9.4.2",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1",
+    "route": "^0.2.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
